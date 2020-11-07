@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Src">
+      <UniqueIdentifier>{2abbad9e-c3f0-4fc4-b5ad-0d0bf9beb608}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\ECS">
+      <UniqueIdentifier>{7059badf-bf18-4957-811e-873b86743a81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="Components.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="Coordinate.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="RigidBody.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Body.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyAI.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="Equations.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Coins.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="CharAction.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="End.h">
+      <Filter>Src\ECS</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Coordinate.cpp">
+      <Filter>Src\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Src\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Src\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="RigidBody.cpp">
+      <Filter>Src\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Src\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Body.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyAI.cpp">
+      <Filter>Src\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="Equations.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Coins.cpp">
+      <Filter>Src\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="CharAction.cpp">
+      <Filter>Src\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="End.cpp">
+      <Filter>Src\ECS</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

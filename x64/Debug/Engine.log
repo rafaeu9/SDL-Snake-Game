@@ -1,0 +1,32 @@
+﻿  Body.cpp
+  CharAction.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Coins.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Collision.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CollisionManager.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Coordinate.cpp
+  End.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  EnemyAI.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Equations.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Equations.cpp(7,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Input.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Map.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  RigidBody.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Sprite.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
+E:\Solent\2 year\1st semester\COMPUTER GAMES PROGRAMMING\Assessment 2\Final\MarioRafaelCunhaFernandes_Q14225352_DAC526_AE2_Project\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
